@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Anime Wallpaper</string>
+
+    <string name="setting">Setting</string>
+    <string name="about">About</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="pages">Pages</string>
+    <string name="author">Author</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup_notice">No account yet? Create one</string>
+    <string name="signup">Signup</string>
+    <string name="signin">Signin</string>
+
+    <string name="post">Post</string>
+
+    <string name="changeavatar">Change avatar</string>
+    <string name="changepassword">Change password</string>
+    <string name="searchimages">Search images</string>
+    <string name="imagesfavorite">Images favorite</string>
+    <string name="signout">Signout</string>
+    <string name="exit">Exit</string>
+    <string name="categories">Trending categories</string>
+
+    <string name="oldpassword">Old password</string>
+    <string name="newpassword">New password</string>
+    <string name="cnewpassword">Confirm new password</string>
+    <string name="cpassword">Confirm password</string>
+    <string name="ok">OK</string>
+    <string name="change">Change</string>
+    <string name="favorite_count">Likes</string>
+
+    <string name="cpassword_not_match">Confirm password does not match</string>
+    <string name="password_too_short">Password too short</string>
+    <string name="password_has_changed">Your password has been changed successfully</string>
+    <string name="comment_too_short">Comment too short</string>
+    <string name="exit_confirm">Do you want to exit ?</string>
+    <string name="download_confirm">Show ads while waiting for get original picture download link</string>
+    <string name="get_link_completed">Picture is downloading, please see device notification bar to more</string>
+
+    <!-- Ad -->
+    <string name="startapp_app_id">200198286</string>
+    <string name="admob_app_id">ca-app-pub-2724652222685817~3789633637</string>
+    <string name="admob_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

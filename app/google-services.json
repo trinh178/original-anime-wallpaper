@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "830709820976",
+    "firebase_url": "https://anime-wallpapers-892f8.firebaseio.com",
+    "project_id": "anime-wallpapers-892f8",
+    "storage_bucket": "anime-wallpapers-892f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830709820976:android:8852deaccb74e7c6",
+        "android_client_info": {
+          "package_name": "com.samui.animewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830709820976-oc0e5onvm8q453k9049uam0iqsq2bndr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7QajcSfuG4GmJ0vI_RyahdzJktG9oMHg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830709820976:android:bc3e221074cd2a66",
+        "android_client_info": {
+          "package_name": "com.samuigroup.animewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830709820976-oc0e5onvm8q453k9049uam0iqsq2bndr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7QajcSfuG4GmJ0vI_RyahdzJktG9oMHg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830709820976:android:d7c6bbbfa2673dbd",
+        "android_client_info": {
+          "package_name": "com.samuigroup.originalanimewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830709820976-oc0e5onvm8q453k9049uam0iqsq2bndr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7QajcSfuG4GmJ0vI_RyahdzJktG9oMHg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

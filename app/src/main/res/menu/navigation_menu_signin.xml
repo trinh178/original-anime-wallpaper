@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/nav_changeavatar"
+        android:icon="@drawable/icon_account_edit"
+        android:title="@string/changeavatar" />
+    <item
+        android:id="@+id/nav_changepassword"
+        android:icon="@drawable/icon_key_variant"
+        android:title="@string/changepassword" />
+
+    <item
+        android:id="@+id/nav_categories"
+        android:icon="@drawable/icon_categories"
+        android:title="@string/categories" />
+
+    <item
+        android:id="@+id/nav_imagesfavorite"
+        android:icon="@drawable/icon_heart_multiple"
+        android:title="@string/imagesfavorite" />
+
+    <item
+        android:id="@+id/nav_signout"
+        android:icon="@drawable/icon_account_arrow_left"
+        android:title="@string/signout" />
+
+    <item
+        android:id="@+id/nav_exit"
+        android:icon="@drawable/icon_exit_to_app"
+        android:title="@string/exit" />
+</menu>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="2dp"
+        android:background="@drawable/border"
+        android:layout_marginTop="2dp">
+
+        <ImageButton
+            android:id="@+id/iv_avatar"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="@drawable/border"
+            android:padding="2dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_account" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="2dp">
+            <!-- Commenter -->
+            <TextView
+                android:id="@+id/txt_commenter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Commenter"
+                android:textAllCaps="false"
+                android:textStyle="bold" />
+            <!-- Content -->
+            <TextView
+                android:id="@+id/txt_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" />
+            <!-- Date -->
+            <TextView
+                android:id="@+id/txt_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="11:18 17/08/2018"
+                android:textSize="8sp"
+                android:textStyle="italic" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
