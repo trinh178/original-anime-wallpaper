@@ -55,10 +55,6 @@ implements MyFavoritesContract.View {
         presenter.onStart();
 
         //
-        setTitle(R.string.imagesfavorite);
-
-
-        //
         addBannerAd();
     }
 

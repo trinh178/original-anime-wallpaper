@@ -95,14 +95,10 @@ implements PostContract.View{
         load();
 
         //
-        setTitle(R.string.post);
-        //
         presenter.onStart(post);
-
 
         //
         addBannerAd();
-
     }
 
     private void setToolbar() {
